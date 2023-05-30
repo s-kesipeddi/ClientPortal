@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CustomerAppApplication {
 
-	//add comments
+	//add comments by Sreeni
 	public static void main(String[] args) {
 		SpringApplication.run(CustomerAppApplication.class, args);
 	}
